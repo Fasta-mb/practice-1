@@ -1,0 +1,103 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5rem;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 1.8rem;
+}
+.font {
+  font-weight: normal;
+  line-height: 2;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+.top-container {
+  background-color: #c6ebc9;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+margin-top: 20px;
+}
+.bottom-container {
+  padding: 2% 0 2% 0;
+  background-color: #66BFBF;
+
+
+}
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.fullstack-img {
+  width: 28%;
+  float: left;
+  margin-right: 10px;
+}
+.psycologist-img {
+  width: 28%;
+  float: right;
+  margin-left: 10px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width: 8%;
+
+}
+input {
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  background-color: #11999E;
+  border-style: none;
+  margin: 30px 0 30px 0;
+}
+input:hover {
+  background-color: #70af85;
+}
+.footer-link {
+  margin: 0 15px 0 15px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #EAF6F6;
+}
+.copywrite {
+  color: #EAF6F6;
+  font-size: 0.78rem;
+}
